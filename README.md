@@ -19,4 +19,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Placeholders were used where necessary. 
 
-![Image of Website](./screenshot.png)
+![Image of Website](.assets/screenshot.png)
