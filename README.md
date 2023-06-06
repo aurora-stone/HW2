@@ -18,7 +18,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Image
-![Image of Website](./assets/screenshot.png)
+![Image of Website](./screenshot.png)
 
 ## Link
 [Link to Application](https://aurora-stone.github.io/HW2/)
