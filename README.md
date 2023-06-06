@@ -1,7 +1,7 @@
 # Portfolio 
 
 
-For this assignment I created a website using semantic HTML and CSS. For the creation initial portfolio, I followed the acceptance criteria. As follows: 
+For this assignment I created a website using semantic HTML and CSS. For the creation of the portfolio, I followed the acceptance criteria. These were as follows: 
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
@@ -17,6 +17,8 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-Placeholders were used where necessary. 
-
+## Image
 ![Image of Website](./assets/screenshot.png)
+
+## Link
+[Link to Application](https://aurora-stone.github.io/HW2/)
